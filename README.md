@@ -38,16 +38,58 @@ What's better than reading the source code of a library that  you've used in the
  	- Doesn't use any library.
 
 - [Craft](https://github.com/fogleman/Craft) - A Minecraft clone.
-	- Not suitable for beginners.
 	- Smooth gameplay. Looks elegant as well.
 	- You can create your own server and play(this portion is written in Python).
 	- sqlite3 database to store stuff.
 	- Author has loads of other cool repositories.
+	
+### Python
+- [Reddit](https://github.com/reddit/reddit) - Most of the code that powers Reddit.
+	- Do I need to say more?
+
+- [Supervisor](https://github.com/Supervisor/supervisor) - A process manager for Unix.
+	- Automate starting, stopping and restarting processes.
+	- Pretty useful piece of software that is used quite a lot.
+	- Handles the apps you start as child process. Can kill and spawn as needed.
+
+- [You Get](https://github.com/soimort/you-get) - Scrape media from the web.
+	- Can be used to download videos, pictures and audio.
+	- Quite cool and might appeal to people getting started with Python.
+
+### Go
+- [Primitive](https://github.com/fogleman/primitive) - Reproduce images with geometric primitives.
+	- A visual treat.
+	- Configurable. You can specify loads of options.
+	- Multithreaded. It therefore is very fast.
+	- [Also available as a full fledged application for macOS](https://primitive.lol/)
+	
+### JavaScript
+- [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown-Client) - An online battle simulator.
+	- Pretty cool fully animated battle simulator.
+	- Has a repo for client side code and a repo for the server side.
+	- [Try it out.](http://pokemonshowdown.com/)
+	
+- [Matterwiki](https://github.com/Matterwiki/Matterwiki) - A wiki for teams.
+	- A gorgeous front end and mobile responsive.
+	- WYSIWYG editor.
+	
+- [Intense Images](https://github.com/tholman/intense-images) - Make an impact with images.
+	- A library that adds some punch to your image.
+	- This is something that you always wanted but just weren't aware of it.
+	- Simple and intuitive API.
+	- The author's profile sports other splendid libraries as well.
+	- [Demo.](http://tholman.com/intense-images/)
+
+- [Habitica](https://github.com/HabitRPG/habitica) - Treat your habits as a RPG.
+	- Novel idea.
+	- Used by over 1.5 million people.
+	- [Their website.](https://habitica.com/static/front)
 	
 ### Java
 - [GraphHopper](https://github.com/graphhopper/graphhopper) - An open source routing library.
 	- It uses data from OpenStreetMap.
 	- Gives directions and the distance from point A to point B.
 	- Kind of like Google Maps.
+	- [Try it out.](https://graphhopper.com/maps/)
 
 
