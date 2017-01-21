@@ -96,6 +96,11 @@ What's better than reading the source code of a library that  you've used in the
 	- The author's profile sports other splendid libraries as well.
 	- [Demo.](http://tholman.com/intense-images/)
 
+- [Shower](https://github.com/shower/shower) - HTML Presentation Engine
+	- Built with HTML, CSS and vanilla JavaScript.
+	- Keyboard accessible and printable to PDF.
+	- [See it in action.](https://shwr.me/) You just have to double click one of the slides and then use arrow keys.
+
 - [Habitica](https://github.com/HabitRPG/habitica) - Treat your habits as a RPG.
 	- Novel idea.
 	- Used by over 1.5 million people.
