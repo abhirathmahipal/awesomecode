@@ -115,4 +115,9 @@ What's better than reading the source code of a library that  you've used in the
 	- Easy setup on a host of platforms.
 	- Share data using a P2P network.
 
+### Haskell
+- [FuncTorrent](https://github.com/vu3rdd/functorrent) - A BitTorrent client in Haskell.
+	- Not a substitute to your torrent client.
+	- Built for fun.
+	- Looks like a good learning experience. (Read torrent specs, Haskell style guide etc)
 
