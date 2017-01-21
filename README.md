@@ -43,6 +43,12 @@ What's better than reading the source code of a library that  you've used in the
 	- sqlite3 database to store stuff.
 	- Author has loads of other cool repositories.
 	
+### C++
+- [sqlite Browser](https://github.com/sqlitebrowser/sqlitebrowser) - A simple sqlite browser for every platform.
+	- Intuitive and simple. 
+	- Supports a variety of operations.
+	- [Details and screenshots.](http://sqlitebrowser.org/)
+	
 ### Python
 - [Reddit](https://github.com/reddit/reddit) - Most of the code that powers Reddit.
 	- Do I need to say more?
@@ -55,6 +61,16 @@ What's better than reading the source code of a library that  you've used in the
 - [You Get](https://github.com/soimort/you-get) - Scrape media from the web.
 	- Can be used to download videos, pictures and audio.
 	- Quite cool and might appeal to people getting started with Python.
+
+- [htmlPy](https://github.com/amol-mandhane/htmlPy) - Create GUI using HTML, CSS and JavaScript.
+	- Wrapper around PySide's QtWebKit library.
+	- JavaScript is used to invoke Python functions.
+	- [Examples and documentation.](http://amol-mandhane.github.io/htmlPy/)
+	
+- [hy](https://github.com/hylang/hy) - Pythonic Lisp
+	- Write code in Lisp that directly gets converted to Python.
+	- Best of both worlds.
+	- Supports macros as well.
 
 ### Go
 - [Primitive](https://github.com/fogleman/primitive) - Reproduce images with geometric primitives.
@@ -91,5 +107,12 @@ What's better than reading the source code of a library that  you've used in the
 	- Gives directions and the distance from point A to point B.
 	- Kind of like Google Maps.
 	- [Try it out.](https://graphhopper.com/maps/)
+	
+- [Loklak Server](https://github.com/loklak/loklak_server) - Collect, share and dump tweets.
+	- Collect a very large amount of tweets.
+	- Create your own search portal for tweets.
+	- Use it for statistical data.
+	- Easy setup on a host of platforms.
+	- Share data using a P2P network.
 
 
