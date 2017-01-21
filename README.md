@@ -111,7 +111,7 @@ What's better than reading the source code of a library that  you've used in the
 - [Loklak Server](https://github.com/loklak/loklak_server) - Collect, share and dump tweets.
 	- Collect a very large amount of tweets.
 	- Create your own search portal for tweets.
-	- Use it for statistical data.
+	- Use it for statistical purposes.
 	- Easy setup on a host of platforms.
 	- Share data using a P2P network.
 
