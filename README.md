@@ -36,6 +36,10 @@ What's better than reading the source code of a library that  you've used in the
  	- [See it in action.](https://asciinema.org/a/90r2i9bq8po03nazhqtsifksb)
  	- Minimal and suitable for beginners.
  	- Doesn't use any library.
+	
+- [Tiny Web Server](https://github.com/shenfeng/tiny-web-server) - A tiny web server in C.
+	- Less than 500 lines of code.
+	- A couple of handy features.
 
 - [Craft](https://github.com/fogleman/Craft) - A Minecraft clone.
 	- Smooth gameplay. Looks elegant as well.
@@ -78,6 +82,11 @@ What's better than reading the source code of a library that  you've used in the
 	- Configurable. You can specify loads of options.
 	- Multithreaded. It therefore is very fast.
 	- [Also available as a full fledged application for macOS](https://primitive.lol/)
+
+- [Micro](https://github.com/zyedidia/micro) - A terminal based text editor.
+	- Cross platform.
+	- Plugin system.
+	- Splits, tabs and common key bindings with good mouse support.
 	
 ### JavaScript
 - [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown-Client) - An online battle simulator.
@@ -130,6 +139,11 @@ What's better than reading the source code of a library that  you've used in the
 	- Custom syntax highlighting using regex.
 	- Robust and efficient.
 	- Simple API.
+	
+### Common Lisp
+- [Lambda Lite](https://github.com/Wukix/LambdaLite) - A functional relational database.
+	- Under 250 lines of code.
+	- Not scalable at all. It's a fun project. 
 	
 ### Haskell
 - [FuncTorrent](https://github.com/vu3rdd/functorrent) - A BitTorrent client in Haskell.
