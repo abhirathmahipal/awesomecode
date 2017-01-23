@@ -17,13 +17,13 @@ What's better than reading the source code of a library that  you've used in the
 
 ### Sorted via Language
 - [C](#c)
-- [C++](#)
+- [C++](#c++)
 - [Python](#python)
 - [Go](#go)
 - [PHP](#php)
 - [JavaScript](#javascript)
 - [Java](#java)
-- [C#](#)
+- [C#](#c-sharp)
 - [Common Lisp](#common-lisp)
 - [Scheme](#scheme)
 - [Haskell](#haskell)
@@ -105,6 +105,10 @@ What's better than reading the source code of a library that  you've used in the
 	- Novel idea.
 	- Used by over 1.5 million people.
 	- [Their website.](https://habitica.com/static/front)
+
+- [Holmes](https://github.com/Haroenv/holmes) - Fast and easy searching within a page.
+	- Neat way to search and show relevant stuff within a page.
+	- [Demo.](https://haroen.me/holmes/)
 	
 ### Java
 - [GraphHopper](https://github.com/graphhopper/graphhopper) - An open source routing library.
@@ -120,6 +124,13 @@ What's better than reading the source code of a library that  you've used in the
 	- Easy setup on a host of platforms.
 	- Share data using a P2P network.
 
+### C Sharp
+- [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Text editor component for winforms.
+	- Syntax highlighting, autocomplete, search, redo, undo etc.
+	- Custom syntax highlighting using regex.
+	- Robust and efficient.
+	- Simple API.
+	
 ### Haskell
 - [FuncTorrent](https://github.com/vu3rdd/functorrent) - A BitTorrent client in Haskell.
 	- Not a substitute to your torrent client.
