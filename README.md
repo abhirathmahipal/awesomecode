@@ -119,6 +119,10 @@ What's better than reading the source code of a library that  you've used in the
 	- Neat way to search and show relevant stuff within a page.
 	- [Demo.](https://haroen.me/holmes/)
 	
+- [Smoothie](https://github.com/joewalnes/smoothie) - A JavaScript library for real time data.
+	- Really smooth. I'm aware the name implies it.
+	- Surprisingly small in size. 
+	- [Demo.](http://smoothiecharts.org/examples/server-load.html)
 ### Java
 - [GraphHopper](https://github.com/graphhopper/graphhopper) - An open source routing library.
 	- It uses data from OpenStreetMap.
