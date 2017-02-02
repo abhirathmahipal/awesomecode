@@ -47,6 +47,10 @@ What's better than reading the source code of a library that  you've used in the
 	- sqlite3 database to store stuff.
 	- Author has loads of other cool repositories.
 	
+- [Toaruos](https://github.com/klange/toaruos) - A hobby operating system.
+	- Built from scratch. Includes a kernel and a userspace.
+	- Has a rich GUI and loads of other capabilities.
+	
 ### C++
 - [sqlite Browser](https://github.com/sqlitebrowser/sqlitebrowser) - A simple sqlite browser for every platform.
 	- Intuitive and simple. 
@@ -75,6 +79,10 @@ What's better than reading the source code of a library that  you've used in the
 	- Write code in Lisp that directly gets converted to Python.
 	- Best of both worlds.
 	- Supports macros as well.
+
+- [Clickbait Detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects links that are written specifically to entice users to click them.
+	- Written in Jupyter notebooks.
+	- Also has a chrome extension.
 
 ### Go
 - [Primitive](https://github.com/fogleman/primitive) - Reproduce images with geometric primitives.
@@ -123,6 +131,11 @@ What's better than reading the source code of a library that  you've used in the
 	- Really smooth. I'm aware the name implies it.
 	- Surprisingly small in size. 
 	- [Demo.](http://smoothiecharts.org/examples/server-load.html)
+	
+- [Blockrain](https://github.com/Aerolab/blockrain.js) - A Tetris in jQuery.
+	- Loads of themes.
+	- Bots can play against each other.
+	- Awesome UI.
 	
 ### Java
 - [GraphHopper](https://github.com/graphhopper/graphhopper) - An open source routing library.
